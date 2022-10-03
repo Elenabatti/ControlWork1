@@ -28,6 +28,8 @@ void PrintArray (string[] array)
 
 }
 
-
+Array(array1, array2);
+Console.WriteLine("Решение поставленной задачи: ");
+PrintArray(array2);
 
 
